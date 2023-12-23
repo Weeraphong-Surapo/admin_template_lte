@@ -1,28 +1,10 @@
 <template>
-  <div class="wrapper">
-
-
-
-
- 
-
-   <router-view/>
-
-
-
- 
-
- 
-  </div>
+    <div id="sidebar-overlay"></div>
 </template>
 
 <script>
 export default {
-  setup() {
 
-
-    return {}
-  }
 }
 </script>
 
